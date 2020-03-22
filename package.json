@@ -10,7 +10,7 @@
   },
   "remarkConfig": {
     "plugins": [
- i     "remark-preset-lint-recommended"
+      "remark-preset-lint-recommended"
     ]
   }
 }
