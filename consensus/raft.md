@@ -16,4 +16,4 @@ The consensus problem is divided in two main parts:
 * State Replication 
 
 ## References 
-* [In Search of an Understandable Consensus Algorithm(Extended Version)](https://raft.github.io/raft.pdf)
+* Ongaro and Ousterhout. [In Search of an Understandable Consensus Algorithm (Extended Version)](https://raft.github.io/raft.pdf). Stanford University (2014)
