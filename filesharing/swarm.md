@@ -1,6 +1,6 @@
 ---
 title: Swarm
-parent: Storage
+parent: File Sharing
 ---
 
 # Swarm
