@@ -1,6 +1,6 @@
 ---
-title: Bittorrent
+title: BitTorrent
 parent: Storage
 ---
 
-# Bittorrent
+# BitTorrent
