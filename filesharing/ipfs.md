@@ -1,6 +1,6 @@
 ---
 title: IPFS
-parent: Storage
+parent: File Sharing
 ---
 
 # IPFS
