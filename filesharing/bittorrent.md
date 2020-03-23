@@ -1,6 +1,6 @@
 ---
 title: BitTorrent
-parent: Storage
+parent: File Sharing
 ---
 
 # BitTorrent
