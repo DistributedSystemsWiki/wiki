@@ -6,3 +6,6 @@ search_enabled: true
 footer_content: "Copyright and related rights waived via <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>."
 
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+
+plugins:
+  - jekyll-sitemap
