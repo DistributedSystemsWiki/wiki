@@ -14,3 +14,6 @@ The consensus problem is divided in two main parts:
 
 * Leader election
 * State Replication 
+
+## References 
+* [In Search of an Understandable Consensus Algorithm(Extended Version)](https://raft.github.io/raft.pdf)
