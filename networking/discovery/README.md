@@ -2,6 +2,8 @@
 title: Discovery
 parent: Networking
 permalink: /networking/discovery/
+has_children: true
+nav_order: 1
 ---
 
 # Discovery
