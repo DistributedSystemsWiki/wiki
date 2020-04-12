@@ -7,5 +7,7 @@ footer_content: "Copyright and related rights waived via <a href=\"https://creat
 
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 
+markdown: kramdown
+
 plugins:
   - jekyll-sitemap
