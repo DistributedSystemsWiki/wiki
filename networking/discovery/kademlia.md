@@ -1,6 +1,7 @@
 ---
 title: Kademlia
 parent: Discovery
+grand_parent: Networking
 ---
 
 # Kademlia
