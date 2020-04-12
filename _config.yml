@@ -3,6 +3,8 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
 
+ga_tracking: UA-156157914-2
+
 aux_links:
   "Contribute to this Wiki on GitHub!":
     - "//github.com/DistributedSystemsWiki/wiki"
